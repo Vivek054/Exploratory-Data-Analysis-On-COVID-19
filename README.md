@@ -33,3 +33,5 @@ I used Tableau to do the analysis on the data.
 ## The Graph representing the New cases and New Deaths Per Million in INDIA:
 
 ![million](https://user-images.githubusercontent.com/59309459/102719782-212ef880-4316-11eb-8ec6-f458e48db291.PNG)
+
+# Note: You Can Find the detailed View in the Tableau Workbook
